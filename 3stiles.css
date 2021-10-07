@@ -1,0 +1,153 @@
+body{
+font-family: "Times New Roman";
+flex-direction: column;
+}
+ol{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+justify-content: center;
+width:50vw;
+margin-left: 25vw;
+order: 1;
+}
+#f{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+width:30vw;
+margin-left: 35vw;
+order: 3;
+}
+table{
+border: 2px solid black;
+font-size: x-large;
+display: flex;
+background-color: #99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+width:30vw;
+margin-left: 35vw;
+order: 2;
+}
+.s1
+{
+background-color:#99CCFF; 	
+border: 2px solid black;
+}
+.s2
+{
+background-color:#98FB98; 
+border: 2px solid black;	
+}
+header{
+font-size: xx-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+order: 5;
+}
+nav{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+order: 4;	
+}
+nav a{
+display: flex;
+margin: 10px;
+padding: 10px;	
+order: 4;
+}
+footer{
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;	
+order: 5;
+}
+screen and (min-width: 800px){
+body{
+font-family: "Times New Roman";
+}
+ol{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+justify-content: center;
+width:50vw;
+margin-left: 25vw;
+order: 1;
+}
+#f{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+width:30vw;
+margin-left: 35vw;
+order: 3;
+}
+table{
+border: 2px solid black;
+font-size: x-large;
+display: flex;
+background-color: #99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+width:30vw;
+margin-left: 35vw;
+order: 2;
+}
+.s1
+{
+background-color:#99CCFF; 	
+border: 2px solid black;
+}
+.s2
+{
+background-color:#98FB98; 
+border: 2px solid black;	
+}
+header{
+font-size: xx-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+order: 5;
+}
+nav{
+font-size: x-large;
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;
+justify-content: center;
+order: 4;	
+}
+nav a{
+display: flex;
+margin: 10px;
+padding: 10px;	
+order: 4;
+}
+footer{
+display: flex;
+background-color:#99CCFF;
+margin: 10px;
+padding: 10px;	
+order: 5;
+}	
+}
